@@ -65,6 +65,6 @@ Concluyendo el trabajo en la elaboración y ejecución de una API.
 <img src = 'https://i.ibb.co/9t3dD7D/blog-zenvia-imagens-3.png' height=250><p>
 
 ## **Video.**
+Link de la presentacion del proyecto correcto.
 
-    + Link de la presentacion del proyecto correcto.
-    https://youtu.be/tfG4cWOAbE8
+https://youtu.be/tfG4cWOAbE8
