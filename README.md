@@ -63,8 +63,3 @@ Concluyendo el trabajo en la elaboración y ejecución de una API.
 <img src = 'https://user-images.githubusercontent.com/103937102/198214481-cc721b8b-75dc-49a0-8763-86af158242cd.png' height = 100></p>
 <img src = 'https://user-images.githubusercontent.com/103937102/198214658-cc3f4e0c-4599-4e3b-94f2-f69021d550bb.png' height = 100></p>
 <img src = 'https://i.ibb.co/9t3dD7D/blog-zenvia-imagens-3.png' height=250><p>
-
-## **Video.**
-Link de la presentacion del proyecto correcto.
-
-https://youtu.be/tfG4cWOAbE8
